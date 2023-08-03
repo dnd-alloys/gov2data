@@ -17,6 +17,11 @@ Help people?
 Help themselves?
 
 How?:
+
+Get metrics from bill using llm
+    - Categorical data?/vector of conditions in law?/etc?
+regress on those metrics against CT data
+
 Read Bill
 Categorize it  chat gpt/LLaMA
 Identify features in the bill  chat gpt/LLaMA
